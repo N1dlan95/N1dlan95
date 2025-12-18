@@ -1,5 +1,5 @@
 
-# Olá! Bem vindo(a)! 👋
+# Hello World, eu sou Nidlan! Bem vindo(a)! 👋
 😁Me chamo **Nidlan Hendell**, sou graduando em Ciência da Computação. Tenho grande paixão na área de programação, sempre buscando novos conhecimentos que me gerem interesse e evolução como programador e profissional. 
 
 💡 Tenho alto interesse em Código Limpo, Engenharia e Arquitetura de Software, HardWare e Game Development; gosto de programação de forma geral, mas atualmente estou focando em desenvolver habilidades de usabilidade e no desenvolvimento full stack.
